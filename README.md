@@ -1,2 +1,2 @@
-# pfs2023
+# final-syntesis-project
 Created with CodeSandbox
